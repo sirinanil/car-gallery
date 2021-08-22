@@ -1,0 +1,29 @@
+a.fa.fa-twitter,
+a.fa.fa-google,
+a.fa.fa-instagram {
+  position: absolute;
+  color: black;
+  right: 33%;
+  text-decoration: none;
+  bottom: 10%;
+  font-size: 50px;
+}
+a.fa.fa-google {
+  right: 23%;
+}
+a.fa.fa-instagram {
+  right: 13%;
+}
+@media (max-width: 1429px) {
+  .HideOnMobile {
+    display: none;
+  }
+  .ShowOnMobile {
+    display: block;
+  }
+}
+@media (min-width: 1429px) {
+  .ShowOnMobile {
+    display: none;
+  }
+}
