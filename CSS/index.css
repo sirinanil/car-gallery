@@ -167,7 +167,7 @@ img.visitimg {
     display: block;
   }
 }
-@media (min-width: 1429px) {
+@media (min-width: 1430px) {
   .ShowOnMobile {
     display: none;
   }

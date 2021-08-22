@@ -11,7 +11,7 @@ a.fa.fa-google {
 .social {
   text-align: center;
 }
-@media (max-width: 1429px) {
+@media (max-width: 1430px) {
   .HideOnMobile {
     display: none;
   }
@@ -19,7 +19,7 @@ a.fa.fa-google {
     display: block;
   }
 }
-@media (min-width: 1429px) {
+@media (min-width: 1430px) {
   .ShowOnMobile {
     display: none;
   }

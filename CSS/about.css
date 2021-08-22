@@ -14,7 +14,7 @@ a.fa.fa-google {
 a.fa.fa-instagram {
   right: 13%;
 }
-@media (max-width: 1429px) {
+@media (max-width: 1430px) {
   .HideOnMobile {
     display: none;
   }
@@ -22,7 +22,7 @@ a.fa.fa-instagram {
     display: block;
   }
 }
-@media (min-width: 1429px) {
+@media (min-width: 1430px) {
   .ShowOnMobile {
     display: none;
   }
